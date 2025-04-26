@@ -10,7 +10,10 @@ physics-informed neural network for defect identification
 - A broad applicability to both linear elastic and hyperelastic materials.
 
 ## Problem setup and Result
+### Elastic materials
 <img src="https://github.com/HHS25/DI-PINNs/blob/main/Img/elasticresults.png" width="700" />
+### Hyperlastic materials
+<img src="https://github.com/HHS25/DI-PINNs/blob/main/Img/hyperelastic.png" width="700" />
 ## Requirements
 
 - Python 3.8.13
