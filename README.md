@@ -13,7 +13,7 @@ physics-informed neural network for defect identification
 ### Elastic materials
 <img src="https://github.com/HHS25/DI-PINNs/blob/main/Img/elasticresults.png" width="700" />
 ### Hyperlastic materials
-<img src="https://github.com/HHS25/DI-PINNs/blob/main/Img/hyperelastic.png" width="700" />
+<img src="https://github.com/HHS25/DI-PINNs/blob/main/Img/hyperelastic.png" width="1000" />
 ## Requirements
 
 - Python 3.8.13
